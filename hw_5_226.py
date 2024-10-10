@@ -16,7 +16,7 @@ import requests
 
 # Define default arguments for the DAG
 default_args = {
-    'owner': 'airflow',
+    'owner': 'Jayam',
     'retries': 1,
     'retry_delay': timedelta(minutes=2),
 }
